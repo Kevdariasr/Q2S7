@@ -15,7 +15,7 @@ public void carga(){
 }
 
 public void imprimir(){
-    for(int f=0;f<8;f++){
+    for(int f=0;f<7;f++){
         System.out.println(sueldos[f]);
     }
 }
